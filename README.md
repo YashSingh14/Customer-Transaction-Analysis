@@ -61,7 +61,7 @@
    
  Tool Proficiency :
 1. Enhanced skills in Python libraries such as Pandas, NumPy, Scikit-learn, and LightGBM.
-2. mproved proficiency in data visualization using Matplotlib and Seaborn.
+2. Improved proficiency in data visualization using Matplotlib and Seaborn.
    
  Problem-Solving Skills :
 1. Developed problem-solving abilities by addressing real-world challenges in fraud detection.
